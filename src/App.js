@@ -1,9 +1,18 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
+import './w3.css'
+
+import Image from './components/Image'
+import DescriptionCard from './components/DescriptionCard'
+import TechnologiesCard from './components/TechnologiesCard'
 
 function App() {
   return (
-    <h1>Pedro Neri</h1>
+    <div className="content">
+      <Image />
+      <DescriptionCard />
+      <TechnologiesCard />
+    </div>
   );
 }
 

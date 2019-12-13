@@ -18,6 +18,17 @@ html {
   margin-bottom: 32px;
 }
 
+.tag {
+  border-radius: 5px;
+  padding: 4px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+.tag a {
+  text-decoration: none;
+}
+
 .primary-color {
   background-color: #ca3e47;
   color: white;
@@ -35,7 +46,7 @@ html {
 
 .content {
   width: 100%;
-  max-width: 500px;
+  max-width: 1000px;
   display: flex;
   flex-direction: column;
   padding: 10px;

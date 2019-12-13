@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pedrogneri/static/css/main.bc301fba.chunk.css",
+    "main.js": "/pedrogneri/static/js/main.c985daa4.chunk.js",
+    "main.js.map": "/pedrogneri/static/js/main.c985daa4.chunk.js.map",
+    "runtime-main.js": "/pedrogneri/static/js/runtime-main.ab059d57.js",
+    "runtime-main.js.map": "/pedrogneri/static/js/runtime-main.ab059d57.js.map",
+    "static/js/2.58c172de.chunk.js": "/pedrogneri/static/js/2.58c172de.chunk.js",
+    "static/js/2.58c172de.chunk.js.map": "/pedrogneri/static/js/2.58c172de.chunk.js.map",
+    "index.html": "/pedrogneri/index.html",
+    "precache-manifest.e85a16a62a6092309cea841082272cad.js": "/pedrogneri/precache-manifest.e85a16a62a6092309cea841082272cad.js",
+    "service-worker.js": "/pedrogneri/service-worker.js",
+    "static/css/main.bc301fba.chunk.css.map": "/pedrogneri/static/css/main.bc301fba.chunk.css.map",
+    "static/js/2.58c172de.chunk.js.LICENSE": "/pedrogneri/static/js/2.58c172de.chunk.js.LICENSE",
+    "static/media/nodejs.png": "/pedrogneri/static/media/nodejs.5b47d4f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab059d57.js",
+    "static/js/2.58c172de.chunk.js",
+    "static/css/main.bc301fba.chunk.css",
+    "static/js/main.c985daa4.chunk.js"
+  ]
+}

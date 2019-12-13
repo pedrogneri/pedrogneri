@@ -1,0 +1,42 @@
+html {
+  background-color: #313131;
+}
+
+#root {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px #ca3e47;
+  width: 50%;
+  margin-bottom: 32px;
+}
+
+.primary-color {
+  background-color: #ca3e47;
+  color: white;
+}
+
+.primary-color-light {
+  background-color: #d9737a;
+  color: white;
+}
+
+.secondary-color {
+  background-color: #ddd;
+  color: #666666;
+}
+
+.content {
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}

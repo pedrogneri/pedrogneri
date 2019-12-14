@@ -1,0 +1,11 @@
+.main-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 15px;
+    grid-gap: 30px;
+}
+
+.social-media {
+    flex: 1;
+    width: 100%;
+}

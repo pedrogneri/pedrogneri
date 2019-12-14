@@ -5,6 +5,7 @@ import './w3.css'
 import Image from './components/Image'
 import DescriptionCard from './components/DescriptionCard'
 import TechnologiesCard from './components/TechnologiesCard'
+import SocialMedias from './components/SocialMedias'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <div className="w3-row header-container">
         <Image />
         <DescriptionCard />
+        <SocialMedias />
       </div>
       <TechnologiesCard />
     </div>

@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function DescriptionCard(){
     return (
-        <div className="w3-card-4">
-            <header className="w3-container w3-center primary-color">
+        <div className="w3-rest w3-container">
+            <header className="w3-container primary-color">
                 <h1>Pedro Guilherme Neri</h1>
             </header>
                 

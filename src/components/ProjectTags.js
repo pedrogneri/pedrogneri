@@ -1,4 +1,5 @@
 import React from 'react'
+import './ProjectTags.css'
 
 export default function ProjectTags(props){
     return (

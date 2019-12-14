@@ -9,15 +9,10 @@ import TechnologiesCard from './components/TechnologiesCard'
 function App() {
   return (
     <div className="content">
-      <div className="w3-row">
-        <div className="w3-half w3-container">
-          <Image />
-        </div>
-        <div className="w3-half w3-container">
-          <DescriptionCard />
-        </div>
+      <div className="w3-row header-container">
+        <Image />
+        <DescriptionCard />
       </div>
-     
       <TechnologiesCard />
     </div>
   );

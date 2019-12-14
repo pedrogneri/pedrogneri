@@ -1,5 +1,10 @@
 import React from 'react'
+import './Image.css'
 
 export default function Image(){
-    return <img className="w3-round main-image" alt="me" src="https://avatars.githubusercontent.com/pedrogneri"/>
+    return (
+        <div className="w3-half w3-middle w3-container">
+            <img className="w3-round main-image" alt="me" src="https://avatars.githubusercontent.com/pedrogneri"/>
+        </div>
+    )
 }

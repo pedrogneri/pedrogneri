@@ -1,0 +1,10 @@
+.tag {
+    border-radius: 5px;
+    padding: 4px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+  
+.tag a {
+  text-decoration: none;
+}

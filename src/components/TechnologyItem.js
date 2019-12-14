@@ -4,11 +4,10 @@ import ProjectTags from './ProjectTags'
 
 export default function TechnologyItem(props){
     return (
-        <li className="w3-bar">
-            <img src={props.img} alt="Logo" className="w3-bar-item w3-circle" style={ {width: 90 + 'px' }} />
-            <span className="w3-large">{props.name}</span>
+        <li className="w3-bar w3-col m4">
+            <span className="title">{props.name}</span>
             <br/>
-            <span>{props.description}</span>
+            <span className="description">{props.description}</span>
             <br/><br/>
             <ProjectTags projects={props.projects}/>
         </li>

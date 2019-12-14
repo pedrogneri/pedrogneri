@@ -7,7 +7,7 @@ export default function DescriptionCard(){
                 <h1>Pedro Guilherme Neri</h1>
             </header>
                 
-            <div className="w3-container secondary-color">
+            <div className="w3-container description secondary-color">
                 <p>Estagiário na Dextra e estudante de ciência da computação na UniFAJ</p>
             </div>
         </div>

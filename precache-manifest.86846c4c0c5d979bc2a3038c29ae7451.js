@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0c58f55f00befaeb325dc76f0674f6f",
+    "revision": "490ab386479ea07c71de56af7f321ed7",
     "url": "/pedrogneri/index.html"
   },
   {
-    "revision": "e08cedd79797733135f1",
-    "url": "/pedrogneri/static/css/main.26be6dc6.chunk.css"
+    "revision": "c22d0ff4824845cb7ffa",
+    "url": "/pedrogneri/static/css/main.236476d5.chunk.css"
   },
   {
     "revision": "000038922ab60107509f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pedrogneri/static/js/2.68fa555d.chunk.js.LICENSE"
   },
   {
-    "revision": "e08cedd79797733135f1",
-    "url": "/pedrogneri/static/js/main.3b346fa3.chunk.js"
+    "revision": "c22d0ff4824845cb7ffa",
+    "url": "/pedrogneri/static/js/main.30a6f30e.chunk.js"
   },
   {
     "revision": "e06b830eab554e0f643b",

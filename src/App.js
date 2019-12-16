@@ -1,23 +1,26 @@
 import React from 'react'
-import './App.css'
-import './w3.css'
+import './style/App.css'
+import './style/Fonts.css'
+import './style/w3.css'
 
 import Image from './components/Image'
 import DescriptionCard from './components/DescriptionCard'
 import TechnologiesCard from './components/TechnologiesCard'
 import SocialMedias from './components/SocialMedias'
+import Education from './components/Education'
 
 function App() {
-  return (
-    <div className="content">
-      <div className="w3-row header-container">
-        <Image />
-        <DescriptionCard />
-        <SocialMedias />
-      </div>
-      <TechnologiesCard />
-    </div>
-  );
+    return (
+        <div className="content">
+        <div className="w3-row w3-center">
+            <Image />
+            <DescriptionCard />
+            <SocialMedias />
+        </div>
+        <TechnologiesCard />
+        <Education />
+        </div>
+    );
 }
 
 export default App;

@@ -1,0 +1,41 @@
+@media screen and (min-width: 601px) {
+    .content h3 {
+        font-size: 28px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .description {
+        font-size: 16px;
+    }
+}
+  
+@media screen and (max-width: 600px) {
+    .content h3 {
+        font-size: 24px;
+    }
+
+    .title {
+        font-size: 18px;
+    }
+
+    .description {
+        font-size: 14px;
+    }
+}
+  
+@media screen and (max-width: 350px) {
+    .content h3 {
+        font-size: 20px;
+    }
+
+    .title {
+        font-size: 14px;
+    }
+
+    .description {
+        font-size: 12px;
+    }
+}

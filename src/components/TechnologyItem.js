@@ -4,12 +4,12 @@ import ProjectTags from './ProjectTags'
 
 export default function TechnologyItem(props){
     return (
-        <li className="w3-bar w3-col m4">
+        <div className="w3-bar technology-item">
             <span className="title">{props.name}</span>
-            <br/>
-            <span className="description">{props.description}</span>
-            <br/><br/>
-            <ProjectTags projects={props.projects}/>
-        </li>
+            <span className="technology-desc description">{props.description}</span>
+            <div className="project-tags">
+                <ProjectTags projects={props.projects}/>
+            </div>
+        </div>
     )
 }

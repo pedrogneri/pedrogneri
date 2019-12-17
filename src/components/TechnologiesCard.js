@@ -1,5 +1,6 @@
 import React from 'react'
 import TechnologyItem from './TechnologyItem'
+import '../style/TechnologiesCard.css'
 
 const nodeProjects = [{name: "Le derp bot", url: "https://github.com/pedrogneri/le-derp-bot"}, 
     {name: "Blog", url: "https://github.com/pedrogneri/blog-webApp"}]
@@ -15,13 +16,11 @@ export default function TechnologiesCard(){
             </header>
                 
             <div className="w3-container round-border-bottom w3-padding-16 secondary-color">
-                <ul className="w3-ul">
-                    <div className="w3-row">
-                        <TechnologyItem name="Node js" description="Aprendi node.js com vídeos no youtube e já fiz algumas aplicações simples" projects={nodeProjects}/>
-                        <TechnologyItem name="Java" description="Aprendi java no curso técnico e com essa tecnologia desenvolvi meu TCC e alguns outros projetos" projects={javaProjects}/>
-                        <TechnologyItem name="React" description="Sei o básico de React e aprendi na prática principalmente no desenvolvimento dessa aplicação" projects={reactProjects}/>
-                    </div>
-                </ul>
+                <div className="technologies-container">
+                    <TechnologyItem name="Node js" description="Aprendi node.js com vídeos no youtube e já fiz algumas aplicações simples" projects={nodeProjects}/>
+                    <TechnologyItem name="Java" description="Aprendi java no curso técnico e com essa tecnologia desenvolvi meu TCC e alguns outros projetos" projects={javaProjects}/>
+                    <TechnologyItem name="React" description="Sei o básico de React e aprendi na prática principalmente no desenvolvimento dessa aplicação" projects={reactProjects}/>
+                </div>
             </div>
         </div>
     )

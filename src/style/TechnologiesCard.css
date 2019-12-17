@@ -1,0 +1,22 @@
+@media screen and (min-width: 701px) {
+    .technologies-container {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+.technology-item {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 16px;
+}
+
+.technology-desc {
+    flex: 1;
+}
+
+.project-tags {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}

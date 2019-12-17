@@ -9,12 +9,12 @@ const reactProjects = [{name: "pedrogneri.github.io", url: "https://github.com/p
 
 export default function TechnologiesCard(){
     return (
-        <div className="w3-card-4 w3-margin-top">
-            <header className="w3-container primary-color">
+        <div className="w3-margin-top">
+            <header className="w3-container round-border-top primary-color">
                 <h3>Tecnologias</h3>
             </header>
                 
-            <div className="w3-container w3-padding-16 secondary-color">
+            <div className="w3-container round-border-bottom w3-padding-16 secondary-color">
                 <ul className="w3-ul">
                     <div className="w3-row">
                         <TechnologyItem name="Node js" description="Aprendi node.js com vídeos no youtube e já fiz algumas aplicações simples" projects={nodeProjects}/>

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function EducationItem(){
     return (
-        <div className="w3-container secondary-color w3-padding-16 w3-row">
+        <div className="w3-container w3-row">
             <div className="w3-container w3-half w3-margin-bottom">
                 <span className="title"><b>Etec João Belarmino</b></span> 
                 <br/>

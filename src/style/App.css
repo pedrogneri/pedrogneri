@@ -28,6 +28,14 @@ html {
     margin-top: 28px;
 }
 
+.round-border-top {
+    border-radius: 12px 12px 0px 0px;
+}
+
+.round-border-bottom {
+    border-radius: 0px 0px 12px 12px;
+}
+
 .content {
     width: 100%;
     max-width: 1000px;

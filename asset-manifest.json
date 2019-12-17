@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pedrogneri/static/css/main.c6c9e3c3.chunk.css",
-    "main.js": "/pedrogneri/static/js/main.39c5603d.chunk.js",
-    "main.js.map": "/pedrogneri/static/js/main.39c5603d.chunk.js.map",
+    "main.css": "/pedrogneri/static/css/main.b7bb0012.chunk.css",
+    "main.js": "/pedrogneri/static/js/main.94d3b517.chunk.js",
+    "main.js.map": "/pedrogneri/static/js/main.94d3b517.chunk.js.map",
     "runtime-main.js": "/pedrogneri/static/js/runtime-main.ab059d57.js",
     "runtime-main.js.map": "/pedrogneri/static/js/runtime-main.ab059d57.js.map",
     "static/js/2.68fa555d.chunk.js": "/pedrogneri/static/js/2.68fa555d.chunk.js",
     "static/js/2.68fa555d.chunk.js.map": "/pedrogneri/static/js/2.68fa555d.chunk.js.map",
     "index.html": "/pedrogneri/index.html",
-    "precache-manifest.a81f35f240122d1eb5c8371534394ea9.js": "/pedrogneri/precache-manifest.a81f35f240122d1eb5c8371534394ea9.js",
+    "precache-manifest.99871a48fc30abbd0e3fdefad9f838e4.js": "/pedrogneri/precache-manifest.99871a48fc30abbd0e3fdefad9f838e4.js",
     "service-worker.js": "/pedrogneri/service-worker.js",
-    "static/css/main.c6c9e3c3.chunk.css.map": "/pedrogneri/static/css/main.c6c9e3c3.chunk.css.map",
+    "static/css/main.b7bb0012.chunk.css.map": "/pedrogneri/static/css/main.b7bb0012.chunk.css.map",
     "static/js/2.68fa555d.chunk.js.LICENSE": "/pedrogneri/static/js/2.68fa555d.chunk.js.LICENSE",
     "static/media/email-icon.svg": "/pedrogneri/static/media/email-icon.b4dbbab5.svg",
     "static/media/github-icon.svg": "/pedrogneri/static/media/github-icon.f57623f3.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.ab059d57.js",
     "static/js/2.68fa555d.chunk.js",
-    "static/css/main.c6c9e3c3.chunk.css",
-    "static/js/main.39c5603d.chunk.js"
+    "static/css/main.b7bb0012.chunk.css",
+    "static/js/main.94d3b517.chunk.js"
   ]
 }

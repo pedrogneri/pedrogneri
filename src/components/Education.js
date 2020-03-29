@@ -1,11 +1,19 @@
 import React from 'react'
+import styled from 'styled-components'
 
 import EducationItem from './EducationItem'
 import education from '../data/education.json'
 
+const Separator = styled.hr`
+    border-color: #666 !important;
+`
+
 export default function Education(){
     const educationList = education.map((educationItem, index) => 
-        <EducationItem key={index} educationItem={educationItem}/>
+        <>
+            <EducationItem key={index} educationItem={educationItem}/>
+            {(index !== Object.keys(education).length-1) && <Separator />}
+        </>
     )
 
     return (

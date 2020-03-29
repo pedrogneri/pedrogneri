@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pedrogneri/static/css/main.5bc5d210.chunk.css",
-    "main.js": "/pedrogneri/static/js/main.64ac5a91.chunk.js",
-    "main.js.map": "/pedrogneri/static/js/main.64ac5a91.chunk.js.map",
-    "runtime-main.js": "/pedrogneri/static/js/runtime-main.ab059d57.js",
-    "runtime-main.js.map": "/pedrogneri/static/js/runtime-main.ab059d57.js.map",
-    "static/js/2.68fa555d.chunk.js": "/pedrogneri/static/js/2.68fa555d.chunk.js",
-    "static/js/2.68fa555d.chunk.js.map": "/pedrogneri/static/js/2.68fa555d.chunk.js.map",
+    "main.css": "/pedrogneri/static/css/main.58ef0979.chunk.css",
+    "main.js": "/pedrogneri/static/js/main.f3b3bf4a.chunk.js",
+    "main.js.map": "/pedrogneri/static/js/main.f3b3bf4a.chunk.js.map",
+    "runtime-main.js": "/pedrogneri/static/js/runtime-main.ac1ad10b.js",
+    "runtime-main.js.map": "/pedrogneri/static/js/runtime-main.ac1ad10b.js.map",
+    "static/js/2.dee880f7.chunk.js": "/pedrogneri/static/js/2.dee880f7.chunk.js",
+    "static/js/2.dee880f7.chunk.js.map": "/pedrogneri/static/js/2.dee880f7.chunk.js.map",
     "index.html": "/pedrogneri/index.html",
-    "precache-manifest.036f447f04fb8ac5960fa3e43dc54121.js": "/pedrogneri/precache-manifest.036f447f04fb8ac5960fa3e43dc54121.js",
+    "precache-manifest.d89acf11486d51002df4a8e15432875e.js": "/pedrogneri/precache-manifest.d89acf11486d51002df4a8e15432875e.js",
     "service-worker.js": "/pedrogneri/service-worker.js",
-    "static/css/main.5bc5d210.chunk.css.map": "/pedrogneri/static/css/main.5bc5d210.chunk.css.map",
-    "static/js/2.68fa555d.chunk.js.LICENSE": "/pedrogneri/static/js/2.68fa555d.chunk.js.LICENSE",
+    "static/css/main.58ef0979.chunk.css.map": "/pedrogneri/static/css/main.58ef0979.chunk.css.map",
+    "static/js/2.dee880f7.chunk.js.LICENSE.txt": "/pedrogneri/static/js/2.dee880f7.chunk.js.LICENSE.txt",
     "static/media/email-icon.svg": "/pedrogneri/static/media/email-icon.b4dbbab5.svg",
     "static/media/github-icon.svg": "/pedrogneri/static/media/github-icon.f57623f3.svg",
     "static/media/linkedin-icon.svg": "/pedrogneri/static/media/linkedin-icon.296bb57b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab059d57.js",
-    "static/js/2.68fa555d.chunk.js",
-    "static/css/main.5bc5d210.chunk.css",
-    "static/js/main.64ac5a91.chunk.js"
+    "static/js/runtime-main.ac1ad10b.js",
+    "static/js/2.dee880f7.chunk.js",
+    "static/css/main.58ef0979.chunk.css",
+    "static/js/main.f3b3bf4a.chunk.js"
   ]
 }

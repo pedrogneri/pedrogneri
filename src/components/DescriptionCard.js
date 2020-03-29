@@ -10,7 +10,7 @@ export default function DescriptionCard(){
             </header>
                 
             <div className="w3-container description main-description">
-                <p>Estagiário na Dextra e estudante de ciência da computação na UniFAJ</p>
+                <p>Estagiário na Dextra e estudante de Gestão em TI na Fatec Campinas</p>
             </div>
         </div>
     )

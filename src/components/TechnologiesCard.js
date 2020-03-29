@@ -5,7 +5,7 @@ import technologies from '../data/technologies.json'
 
 export default function TechnologiesCard(){
     const technologyList = technologies.map((technology, index) => 
-        <TechnologyItem key={index} technology={technology}/>
+        <TechnologyItem key={index} technology={technology}/>                                                                    
     )
 
     return (

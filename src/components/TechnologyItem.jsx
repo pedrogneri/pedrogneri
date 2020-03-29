@@ -12,11 +12,11 @@ const TechnologyItem = ({ technology }) => (
 );
 
 TechnologyItem.propTypes = {
-  technology: {
+  technology: PropTypes.shape({
     name: PropTypes.string,
     description: PropTypes.string,
     projects: PropTypes.array,
-  },
+  }),
 };
 
 TechnologyItem.defaultProps = {

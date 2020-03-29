@@ -17,12 +17,12 @@ const EducationItem = ({ educationItem }) => (
 );
 
 EducationItem.propTypes = {
-  educationItem: {
+  educationItem: PropTypes.shape({
     name: PropTypes.string,
     graduation: PropTypes.string,
     duration: PropTypes.string,
     description: PropTypes.string,
-  },
+  }),
 };
 
 EducationItem.defaultProps = {

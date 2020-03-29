@@ -14,12 +14,12 @@ const ProjectTags = ({ projects }) => {
 };
 
 ProjectTags.propTypes = {
-  projects: [
+  projects: PropTypes.arrayOf(PropTypes.shape(
     {
       name: PropTypes.string,
       url: PropTypes.string,
     },
-  ],
+  )),
 };
 
 ProjectTags.defaultProps = {

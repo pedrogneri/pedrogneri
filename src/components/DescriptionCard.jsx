@@ -8,7 +8,7 @@ const DescriptionCard = () => (
       <h3>Pedro Guilherme Neri</h3>
     </header>
     <div className="w3-container description main-description">
-      <p>Estagiário na Dextra e estudante de Gestão em TI na Fatec Campinas</p>
+      <p>Dev frontend na Dextra e estudante de Gestão em TI na Fatec Campinas</p>
     </div>
   </div>
 );

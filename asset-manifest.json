@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pedrogneri/static/css/main.abd1833a.chunk.css",
-    "main.js": "/pedrogneri/static/js/main.22342b17.chunk.js",
-    "main.js.map": "/pedrogneri/static/js/main.22342b17.chunk.js.map",
+    "main.js": "/pedrogneri/static/js/main.c878cd46.chunk.js",
+    "main.js.map": "/pedrogneri/static/js/main.c878cd46.chunk.js.map",
     "runtime-main.js": "/pedrogneri/static/js/runtime-main.3b1d8c8b.js",
     "runtime-main.js.map": "/pedrogneri/static/js/runtime-main.3b1d8c8b.js.map",
     "static/js/2.f5cb85c3.chunk.js": "/pedrogneri/static/js/2.f5cb85c3.chunk.js",
     "static/js/2.f5cb85c3.chunk.js.map": "/pedrogneri/static/js/2.f5cb85c3.chunk.js.map",
     "index.html": "/pedrogneri/index.html",
-    "precache-manifest.1e4b7762b5652eae2f647f581588d5aa.js": "/pedrogneri/precache-manifest.1e4b7762b5652eae2f647f581588d5aa.js",
+    "precache-manifest.a9229e7f98bb368528b50993ee2fccee.js": "/pedrogneri/precache-manifest.a9229e7f98bb368528b50993ee2fccee.js",
     "service-worker.js": "/pedrogneri/service-worker.js",
     "static/css/main.abd1833a.chunk.css.map": "/pedrogneri/static/css/main.abd1833a.chunk.css.map",
     "static/js/2.f5cb85c3.chunk.js.LICENSE.txt": "/pedrogneri/static/js/2.f5cb85c3.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.3b1d8c8b.js",
     "static/js/2.f5cb85c3.chunk.js",
     "static/css/main.abd1833a.chunk.css",
-    "static/js/main.22342b17.chunk.js"
+    "static/js/main.c878cd46.chunk.js"
   ]
 }

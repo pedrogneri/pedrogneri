@@ -6,7 +6,7 @@ export const Container = styled.div`
 `;
 
 export const SocialMedia = styled.img`
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   margin: 8px;
 `;

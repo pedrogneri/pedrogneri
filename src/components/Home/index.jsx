@@ -1,13 +1,18 @@
 import React from 'react';
 
 import Image from '../Image';
-import { Container } from './styles';
+import SocialMedias from '../SocialMedias';
+
+import { Container, Description, Subtitle } from './styles';
 
 const Home = () => (
   <Container>
     <Image />
-    <h1>Pedro Guilherme Neri</h1>
-    <h3>Dev frontend na dextra</h3>
+    <Description>
+      <h1>Pedro Guilherme Neri</h1>
+      <Subtitle>Dev frontend na dextra</Subtitle>
+    </Description>
+    <SocialMedias />
   </Container>
 );
 

@@ -3,7 +3,7 @@ Currently focused mainly on javascript development with Nodejs and React
 
 ---
 
-React Developer intern at Dextra 👨‍💻  
+React Developer at Dextra 👨‍💻  
 Graduated in IT at ETEC João Belarmino 👨‍🎓   
 IT Management student at Fatec Campinas 🏫  
 

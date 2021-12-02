@@ -1,6 +1,6 @@
 ## <div align="center">Hi there! I'm Pedro 👋</div>
 
-- Web Developer at Dextra 👨‍💻  
+- Web Developer at ci&t 👨‍💻  
 - Graduated in IT at ETEC João Belarmino 👨‍🎓   
 - IT Management student at Fatec Campinas 🏫  
 

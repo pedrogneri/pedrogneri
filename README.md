@@ -1,8 +1,8 @@
 ## <div align="center">Hi there! I'm Pedro 👋</div>
 
-- Web Developer at ci&t 👨‍💻  
+- Web Developer 👨‍💻  
 - Graduated in IT at ETEC João Belarmino 👨‍🎓   
-- IT Management student at Fatec Campinas 🏫  
+- IT Management student at Cruzeiro do sul 🏫  
 
 <img src="https://github-readme-stats.vercel.app/api?username=pedrogneri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
